@@ -1,0 +1,4 @@
+# file: /workspaces/Fuzz-Testing/processor.py
+# hypothesis_version: 6.147.0
+
+['!', '#', '$', '%', ',', '@', 'Enter a sentence: ', 'Parsed Integer List:', 'Sanitized String:', '__main__']
